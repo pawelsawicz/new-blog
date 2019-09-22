@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://pawelsawicz.github.io/new-blog/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
