@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Terminal</title>
-    <link>https://pawelsawicz.github.io/new-blog/</link>
+    <link>https://sawicz.io/</link>
     <description>Recent content on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Sep 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://pawelsawicz.github.io/new-blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sawicz.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>New website</title>
-      <link>https://pawelsawicz.github.io/new-blog/post/new-blog/</link>
+      <link>https://sawicz.io/post/new-blog/</link>
       <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pawelsawicz.github.io/new-blog/post/new-blog/</guid>
+      <guid>https://sawicz.io/post/new-blog/</guid>
       <description>As time is approaching to start writing about my Master&amp;rsquo;s thesis I decided to resume writing on my blog. You should find here posts about my research in the area of Type theory, Idris and Finance.
 Big kudos to creators of Hugo and terminal-theme</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://pawelsawicz.github.io/new-blog/about/</link>
+      <link>https://sawicz.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pawelsawicz.github.io/new-blog/about/</guid>
+      <guid>https://sawicz.io/about/</guid>
       <description>This is my personal website and blog. My current interests are: Distrubuted systems and Type theory. My day to day language is C#, recently developed interest in Haskell and Idris. Converted to Linux, huge fan of i3</description>
     </item>
     
     <item>
       <title>Curriculum Vitae</title>
-      <link>https://pawelsawicz.github.io/new-blog/cv/</link>
+      <link>https://sawicz.io/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pawelsawicz.github.io/new-blog/cv/</guid>
+      <guid>https://sawicz.io/cv/</guid>
       <description>Curriculum Vitae</description>
     </item>
     
