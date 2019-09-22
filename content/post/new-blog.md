@@ -2,7 +2,6 @@
 title: "New website"
 date: "2019-09-22"
 author: "Pawel"
-cover: "img/hello.jpg"
 description: "Welcome to my new website"
 ---
 
