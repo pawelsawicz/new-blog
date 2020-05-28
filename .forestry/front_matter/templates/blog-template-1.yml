@@ -1,4 +1,18 @@
 ---
 label: blog-template-1
 hide_body: false
-fields: []
+fields:
+- name: main_header
+  type: text
+  config:
+    required: false
+  label: main_header
+- name: main_content_1
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: main_content_1
