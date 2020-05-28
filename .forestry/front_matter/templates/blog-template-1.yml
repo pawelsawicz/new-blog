@@ -16,3 +16,5 @@ fields:
     schema:
       format: markdown
   label: main_content_1
+pages:
+- content/test1.md
